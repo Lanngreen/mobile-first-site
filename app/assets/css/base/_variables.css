@@ -1,2 +1,7 @@
+/*  
+    Variablen gebruiken zorgt ervoor dat je niet elke keer de code hoeft in te voeren bij elk css blokje
+    maar tegelijkertijd zorgt het er ook voor dat je snel kleuren kan aanpassen over het hele document.
+*/
+
 $mainBlue: #2f5572;
 $mainOrange: #d59541;
